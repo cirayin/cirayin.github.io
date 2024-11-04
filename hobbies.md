@@ -10,9 +10,9 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/1.JPG">
-<img src="/images/2.JPG">
+<img src="/images/2.png">
 <img src="/images/3.JPG">
-<img src="/images/4.JPG">
+<img src="/images/4.png">
 </div>
 <br>Outside of work, I find joy in hiking, exploring nature trails that offer both challenge and peace. Cooking is my creative outlet, where I experiment with flavors from around the world. Music keeps me inspired, and I love discovering new tunes. Traveling fuels my curiosity and broadens my perspectives.
 
@@ -42,7 +42,6 @@ I deeply value connecting with others, whether through networking or simply spen
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/cira-x-yin" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<div class="calendly-inline-widget" data-url="https://calendly.com/cira-x-yin" style="min-width:320px;height:630px;">
 <!-- Calendly inline widget end -->
 
