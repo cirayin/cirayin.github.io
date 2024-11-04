@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: expierences/index.html
+permalink: /expierences/index.html
 title: Expierences
 ---
 
