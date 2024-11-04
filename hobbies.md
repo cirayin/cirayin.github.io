@@ -38,7 +38,7 @@ I deeply value connecting with others, whether through networking or simply spen
 
 ## Chat with me
 
-**Nov 2024:** I have set up the [online-coffee-time]("https://calendly.com/cira-x-yin/30min). Welcome to chat with me!
+**Nov 2024:** I have set up the [online-coffee-time]("https://calendly.com/cira-x-yin/30min"). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
