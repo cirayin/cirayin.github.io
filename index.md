@@ -9,7 +9,7 @@ layout: page
 
 Welcome to my personal website! Here is **Xinyan (Cira) Yin**.<br>
 
-I’m currently pursuing a Master degree in Business Analytics at the USC Marshall School of Business, blending my background in finance with data-driven insights to drive meaningful outcomes. With a Bachelor’s degree in Finance and several years' work experience in business and accounting, I am eager to leverage tech and smart tools can increase the working efficiency. I am always seeking opportunities to apply my skills in AI and data analytics to solve real problems for clients.<br>
+I am currently pursuing a master's degree in Business Analytics at the USC Marshall School of Business, where I am combining my finance background with data-driven methodologies to create impactful solutions. Holding a Bachelor’s degree in Finance and backed by several years of experience in business and accounting, I am passionate about leveraging technology and smart tools to enhance efficiency and optimize decision-making. I am always eager to apply my skills in AI and data analytics to tackle real-world challenges and deliver measurable results for clients.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xinyan.yin.2025@marshall.usc.edu
 
