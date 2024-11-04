@@ -35,14 +35,14 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+  - title: Expirences
+    url: /expirences/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  #- title: Blogs
+  #  url: /blogs/
   - title: Teams
     url: /teams/
 
