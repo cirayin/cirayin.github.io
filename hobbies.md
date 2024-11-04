@@ -6,37 +6,33 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Hiking & Cooking & Music & Travel
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/1.JPG">
+<img src="/images/2.JPG">
+<img src="/images/3.JPG">
+<img src="/images/4.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Outside of work, I find joy in hiking, exploring nature trails that offer both challenge and peace. Cooking is my creative outlet, where I experiment with flavors from around the world. Music keeps me inspired, and I love discovering new tunes. Traveling fuels my curiosity and broadens my perspectives.
 
-## Workshop
+## Volunteering
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/1-1.PNG">
+<img src="/images/1-2.png">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br>I always remember the summer of 2018, I participated in an Overseas Volunteer Program in the city of Pokhara, Nepal. During this period, I collaborated with college students from various countries. My role was to serve as a math teacher and cultural communicator in a local primary school, where I taught students in grades two through four.<br>I have always been committed to participating in various volunteer activities, ranging from environmental protection to communication. I do my best to help people and use my own hands to make the world a better place.As my community waste sorting ambassador, I contributed to improving our environment in the neighborhood by organizing promotional events and practical on-duty tasks such as wiping trash bins and transporting garbage every week.  I also spent time visiting nursing homes, where I would spend time with the elderly, providing them with psychological support and performing entertainment programs for them. My cumulative volunteer hours exceeded 200.
 
 
-## Past Hobbies
+## Connecting
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
+I deeply value connecting with others, whether through networking or simply spending quality time with friends. Building meaningful relationships, sharing experiences, and learning from diverse perspectives enrich my life. I enjoy social gatherings, collaborating on ideas, and the fun of playing games together, which strengthens bonds and creates lasting memories.
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/2-1.JPG">
+<img src="/images/2-2.png">
+<img src="/images/2-3.png">
 </div>
 <br>
 
@@ -46,7 +42,7 @@ She is my love. Her name is Qbao (Q宝).
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/cira-x-yin" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
