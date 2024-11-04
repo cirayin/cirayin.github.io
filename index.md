@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://cirayin.github.io/images/hi.jpg"
+<img src="https://cirayin.github.io/blogs/web.assets/IMG_2548.JPG"
  class="floatpic">
 
 Welcome to my personal website! Here is **Xinyan Yin (Cira)**.<br>
