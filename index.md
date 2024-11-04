@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Job Interests
 
-**I am actively seeking a Data Analyst or Data Scientist position for 2025 Summer internship. I invite you to explore my work, connect, and see how we can innovate together! **
+**I am actively seeking a Data Analyst or Data Scientist position for 2025 Summer internship. I invite you to explore my work, connect, and see how we can innovate together!**
 
 - High-tech
 - Healthcare
