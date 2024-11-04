@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://cirayin.github.io//IMG_2548.jpg" class="floatpic">
+<img src="https://cirayin.github.io/blogs/web.assets/IMG_2548.JPG" class="floatpic">
 
 Welcome to my personal website! Here is **Xinyan Yin (Cira)**.<br>
 
 I’m currently pursuing a Master’s in Business Analytics at the USC Marshall School of Business, blending my background in finance with data-driven insights to drive meaningful outcomes. With a Bachelor’s degree in Finance and several-year work experience in business and accounting, IBut after finding how tech and smart tools can increase the working efficiency, I am constantly seeking opportunities to apply my skills in AI and data analytics to solve real problems for clients..<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xinyan.yin.2025@marshall.usc.edu
 
 ---
 
